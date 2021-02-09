@@ -8,8 +8,12 @@ public class Keyword {
 			break;
 		case "Firefox":
 			break;
-		case "IE"
+		case "IE":
 		break;
+		case "Safari":
+			break;
+		case "Microsoft Edge":
+			break;
 		default:
 		}
 	}
