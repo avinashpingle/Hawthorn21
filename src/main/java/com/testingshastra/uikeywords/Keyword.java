@@ -14,7 +14,11 @@ public class Keyword {
 			break;
 		case "Microsoft Edge":
 			break;
-		default:
+		default: System.err.println("Invalid browser name");
 		}
+	}
+	
+	public void close() {
+		
 	}
 }
